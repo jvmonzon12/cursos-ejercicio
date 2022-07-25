@@ -1,0 +1,102 @@
+.explore{
+    background-color: gray;
+    width: 37.5rem;
+    height: 3.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+.pa1{
+   color: black; 
+   font-size: large;
+   margin: 0.5rem;
+   margin-left: 14rem;
+}
+.pa2{
+    color: black; 
+    font-size: large;
+    margin: 0.5rem;
+   margin-left: 8rem;
+     
+}
+.link{
+    text-decoration: none;
+}
+.pa1:hover{
+    transition: 0.5s;
+    color: blueviolet;
+    
+}
+
+.caja1{
+  
+   width: 37.5rem ;
+   height: 18rem;
+
+   display: flex;
+   flex-direction: row;
+}
+.im1{
+  max-width: 15rem;
+  max-height: 17rem;
+  margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.lorem{
+  margin-left: 1rem;
+  margin-top: 1rem;
+
+}
+
+.caja2{
+    
+    width: 37.5rem;
+    height: 18rem;
+
+    display: flex;
+   flex-direction: row;
+}
+.im2{
+    max-width: 15rem;
+  max-height: 17rem;
+  margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.vivo{
+    margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.caja3{
+    
+    width: 37.5rem;
+    height: 18rem;
+
+    display: flex;
+    flex-direction: row;
+}
+.im3{
+    max-width: 15rem;
+  max-height: 17rem;
+  margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.chipo{
+    margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.caja4{
+   
+    width: 37.5rem;
+    height: 18rem;
+
+    display: flex;
+    flex-direction: row;
+}
+.im4{
+    max-width: 15rem;
+    max-height: 17rem;
+    margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.cma{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
